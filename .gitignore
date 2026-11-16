@@ -1,0 +1,4 @@
+# SQL Server
+*.bak
+*.mdf
+*.ldf
